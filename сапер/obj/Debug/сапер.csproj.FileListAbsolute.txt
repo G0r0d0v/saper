@@ -1,0 +1,10 @@
+C:\Users\Gorod\source\repos\сапер\bin\Debug\сапер.exe.config
+C:\Users\Gorod\source\repos\сапер\bin\Debug\сапер.exe
+C:\Users\Gorod\source\repos\сапер\bin\Debug\сапер.pdb
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.csprojAssemblyReference.cache
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.Form1.resources
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.Properties.Resources.resources
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.csproj.GenerateResource.cache
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.csproj.CoreCompileInputs.cache
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.exe
+C:\Users\Gorod\source\repos\сапер\obj\Debug\сапер.pdb
